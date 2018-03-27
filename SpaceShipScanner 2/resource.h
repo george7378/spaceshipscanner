@@ -1,0 +1,41 @@
+#ifndef RESOURCE_H
+#define RESOURCE_H
+
+#define IDC_STATIC				-1
+
+//Preferences
+#define IDD_PREFERENCES         100
+#define IDC_PREF_LAT            1000
+#define IDC_PREF_LON            1001
+#define IDC_PREF_ALTASL         1002
+#define IDC_PREF_UPDATE         1003
+
+//Satellite manager
+#define IDD_SATMANAGER          101
+#define IDC_SATMAN_TLEFILE		1004
+#define IDC_SATMAN_ACTIVESAT	1005
+#define IDC_SATMAN_UPDATE		1006
+#define IDC_SATMAN_UPDATESTATUS	1007
+#define IDC_SATMAN_OK			1008
+
+//Satellite passes
+#define IDD_PASSES				102
+#define IDC_PASSES_STARTDATE	1009
+#define IDC_PASSES_STARTTIME	1010
+#define IDC_PASSES_ENDDATE		1011
+#define IDC_PASSES_ENDTIME		1012
+#define IDC_PASSES_CALCULATE	1013
+#define IDC_PASSES_PROGRESS		1014
+#define IDC_PASSES_RESULTS		1015
+
+#define IDC_PREF                1111
+#define IDC_SATELLITES			1112
+#define IDC_PASSES				1113
+
+#define IDT_SATTIMER			1200
+
+#define IDI_MAINICON			1300
+
+#define WS_SPACESHIPSCANNER (WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_MINIMIZEBOX | WS_CLIPCHILDREN)
+
+#endif
