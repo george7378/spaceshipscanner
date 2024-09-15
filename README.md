@@ -3,6 +3,6 @@ SpaceShipScanner takes in satellite orbit data from a TLE, parses it, and calcul
 
 The program uses the SGP4 algorithm to produce real-time positional data for the chosen satellite and observing location. It also includes a visual interface showing the satellite's location above the Earth in real time and the ability to make pass predictions.
 
-![Main interface](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/_img/1.png)
-![Satellite selection](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/_img/2.png)
-![Pass prediction](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/_img/3.png)
+![Main interface](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/misc/readme/1.png)
+![Satellite selection](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/misc/readme/2.png)
+![Pass prediction](https://raw.githubusercontent.com/george7378/spaceshipscanner/master/misc/readme/3.png)
